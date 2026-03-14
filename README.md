@@ -51,4 +51,4 @@ This will launch the interactive pricing dashboard in your default web browser.
 - `data/`: Raw and processed datasets.
 
 ## About the Dataset
-This project is structured around the Brazilian E-commerce Public Dataset by Olist, exploring real-world e-commerce behavior including seasonality, holiday spikes, and price sensitivity.
+This project is built using the [Retail Price Optimization](https://www.kaggle.com/datasets/suddharshan/retail-price-optimization) dataset from Kaggle, exploring real-world e-commerce behavior including demand elasticity, competitor pricing, and feature-driven sales volume.
